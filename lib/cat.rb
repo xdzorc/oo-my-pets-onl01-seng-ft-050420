@@ -14,6 +14,5 @@ class Cat
     @@all
   end
   
-  def add_cat()
-  end
+ 
 end
