@@ -13,4 +13,7 @@ class Cat
   def self.all 
     @@all
   end
+  
+  def add_cat()
+  end
 end
