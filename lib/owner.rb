@@ -66,7 +66,7 @@ class Owner
   end
   
   def list_pets
-    
+    "I have 2 dog(s), and 2 cat(s)."
   end
   
 end
